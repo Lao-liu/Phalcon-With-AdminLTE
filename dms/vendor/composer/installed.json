@@ -1,0 +1,49 @@
+[
+    {
+        "name": "hprose/hprose",
+        "version": "v1.5.5",
+        "version_normalized": "1.5.5.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/hprose/hprose-php.git",
+            "reference": "cbd06be8160a9c7ebb9436c686a3ea02343f18fb"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/hprose/hprose-php/zipball/cbd06be8160a9c7ebb9436c686a3ea02343f18fb",
+            "reference": "cbd06be8160a9c7ebb9436c686a3ea02343f18fb",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2015-06-16 13:49:33",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "src/Hprose.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Ma Bingyao",
+                "email": "andot@hprose.com",
+                "homepage": "http://hprose.com",
+                "role": "Developer"
+            }
+        ],
+        "description": "It is a modern, lightweight, cross-language, cross-platform, object-oriented, high performance, remote dynamic communication middleware. It is not only easy to use, but powerful. You just need a little time to learn, then you can use it to easily construct cross language cross platform distributed application system.",
+        "homepage": "http://hprose.com/",
+        "keywords": [
+            "Hprose",
+            "phprpc",
+            "rpc",
+            "webservice"
+        ]
+    }
+]

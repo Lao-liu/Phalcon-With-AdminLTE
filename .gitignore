@@ -1,0 +1,13 @@
+.tmp
+dist
+node_modules
+downloaded
+docular_generated
+.idea/
+.sass-cache
+bower_components
+docs
+.project
+cache
+.config
+.phalcon

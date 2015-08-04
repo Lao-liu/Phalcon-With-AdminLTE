@@ -1,5 +1,6 @@
 {
     "require": {
-        "hprose/hprose": "^1.5"
+        "hprose/hprose": "^1.5",
+        "knplabs/knp-menu": "~2.0"
     }
 }

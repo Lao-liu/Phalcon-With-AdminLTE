@@ -8,6 +8,7 @@ class ControllerBase extends Controller
         $this->view->SystemTitle = "Phalcon-With-AdminLTE";
         $this->view->FooterOutputJs = "";
         $this->view->BodyClass = "skin-blue sidebar-mini";
+        $this->view->LogoString = "DMS";
 
         $this->view->setTemplateBefore("backend");
     }
